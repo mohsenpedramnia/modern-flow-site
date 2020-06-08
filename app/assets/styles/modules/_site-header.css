@@ -30,7 +30,7 @@
         top: 0;
         left: 50%;
         transition: transform .3s ease-out;
-        transform: translateX(-50%) scale(.8);
+        transform: translateX(-50%) scale(.50);
         transform-origin: 50% 0;
         background-color: $mainBlue;
         padding: 13px 29px;
@@ -38,7 +38,7 @@
         @mixin atMedium{
             left: auto;
             transform: translateX(0);
-            padding: 25px 36px;
+            
            
 
             .site-header--dark & {
