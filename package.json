@@ -21,7 +21,7 @@
   "homepage": "https://github.com/mohsenpedramnia/modern-flow-site#readme",
   "dependencies": {
     "lazysizes": "^5.2.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
